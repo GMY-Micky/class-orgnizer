@@ -11,7 +11,7 @@ const LandingPage = () => {
         <div className="ps-5" style={{ marginTop: "8vw" }}>
           <span
             className="logo display-1 text-white"
-            style={{ fontSize: "6vmax" }}
+            style={{ fontSize: "7vmax" }}
           >
             Class Manager
           </span>

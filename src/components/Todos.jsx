@@ -156,7 +156,7 @@ const Todos = ({ classId }) => {
               >
                 <div className="container d-flex flex-row justify-content-around flex-wrap">
                   <div
-                    className=" container h5 fw-bold text-justify"
+                    className=" container h5 fw-bold text-justify text-center"
                     style={{ wordWrap: "break-word" }}
                   >
                     {todo.todo}
